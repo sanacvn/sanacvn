@@ -3,8 +3,6 @@
 #standing firm against the waves..
 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/692849bf467651eddb63fa65?variant=dark&roadmaps=ai-engineer%2Ccyber-security" alt="roadmap.sh"/></a>
-
 <!--
 **sanacvn/sanacvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
