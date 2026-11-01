@@ -2,7 +2,6 @@
 
 #standing firm against the waves..
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6698d8b9-0381-4307-b152-b70c680629f8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **sanacvn/sanacvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
