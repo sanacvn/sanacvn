@@ -2,6 +2,9 @@
 
 #standing firm against the waves..
 
+<a href="https://www.credly.com/badges/6698d8b9-0381-4307-b152-b70c680629f8/public_url">
+  <img src="./badge.png" width="150" alt="Credly Badge" />
+</a>
 <!--
 **sanacvn/sanacvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
